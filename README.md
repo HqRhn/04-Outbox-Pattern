@@ -1,10 +1,12 @@
 # Transactional Outbox-Pattern
 **Creating a loosely coupled system using transactional outbox pattern**
 
-**.NET 6 Restful API - OutboxPattern**
+**.NET 6 Restful API - OutboxPattern:**
+
  Creates an order and outbox notification record simultaneously.  
 
-**Minimal API - OutboxPublisher**
+**Minimal API - OutboxPublisher:**
+
 Acting as the background worker process intended to ,
 read the unprocessed message and send to service bus. Then update record as processed.
 
