@@ -1,5 +1,5 @@
 # Transactional Outbox-Pattern
-**Creating a loosely coupled system using transactional outbox pattern : **
+**Creating a loosely coupled system using transactional outbox pattern**
 
  **Create an entity and outbox record simultaneously :**
   ```
